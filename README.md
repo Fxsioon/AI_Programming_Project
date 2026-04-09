@@ -1,28 +1,18 @@
-# Project Title
-Simple Chatbot in Python
+# AI Programming Project
 
-## Student Information
-- Name: Wesley Junior
-- Registration Number: 251426DAI
+Full Name: Wesley Jr  
+Registration Number: 251426DAI
 
-## Project Description
-This project is a simple command-line chatbot developed using Python. The chatbot interacts with users by responding to basic inputs such as greetings and simple queries. It runs in a loop, allowing continuous conversation until the user exits.
+## Project Overview
+This repository contains three mini AI projects developed in Python:
 
-The goal of this project is to demonstrate Python concepts such as:
-- Functions
-- Loops (while loop)
-- Conditional statements (if-elif)
-- String handling
+1. **Machine Learning Mini Model** – A simple linear regression model to predict outcomes based on input data.  
+2. **Data Analyzer** – A Python-based tool for data analysis using Pandas and Scikit-learn.  
+3. **Chatbot** – A conversational AI bot built in Python to interact and answer user queries.
+
+Each project demonstrates foundational AI concepts, including data handling, model training, and natural language interaction.
 
 ## Python Libraries Used
-This project does not require any external libraries. It uses only built-in Python functions.
-
-## How to Run the Code
-1. Ensure Python is installed on your computer.
-2. Save the Python file 
-3. Open your terminal or command prompt.
-4. Navigate to the folder where the file is saved.
-5. Run the following command:
-
-   ```bash
-   python chatbot.py
+- `pandas` – For data manipulation and analysis  
+- `scikit-learn` – For machine learning models  
+- `matplotlib` / `seaborn` – For plotting and data visualization  
